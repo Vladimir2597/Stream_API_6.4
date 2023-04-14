@@ -17,5 +17,6 @@ public class Main {
                 .map(Map.Entry::getKey)
                 .limit(10)
                 .forEach(System.out::println);
+        // new
     }
 }
